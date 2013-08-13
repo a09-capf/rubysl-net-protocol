@@ -1,7 +1,7 @@
-module Rubysl
+module RubySL
   module Net
     module Protocol
-      VERSION = "0.0.1"
+      VERSION = "2.0.0"
     end
   end
 end
